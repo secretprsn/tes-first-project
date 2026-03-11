@@ -1,1 +1,1 @@
-Ini adalah fitur auentikasi.
+Ini adalah fitur autentikasi.
